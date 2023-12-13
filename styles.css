@@ -272,6 +272,7 @@
     letter-spacing: -0.14px;
     display: inline-flex;
     padding: 4px 12px;
+    width: 80px;
     justify-content: center;
     align-items: center;
     gap: 10px;
