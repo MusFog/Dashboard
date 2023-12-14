@@ -436,7 +436,7 @@
         margin: 0 auto;
     }
     .pagination-button--active {
-    background-color: #5932EA;
+        background-color: #5932EA;
     }
     .dashboard__navigation {
         display: flex;
