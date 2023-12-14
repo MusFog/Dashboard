@@ -523,10 +523,6 @@
         cursor: pointer;
     }
     
-    .pagination-button--active {
-        background-color: #007bff;
-        color: #fff;
-    }
     
     .pagination-span {
         color: #666;
