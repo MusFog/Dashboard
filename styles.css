@@ -435,9 +435,6 @@
         padding: 0;
         margin: 0 auto;
     }
-    .pagination-button--active {
-        background-color: #5932EA;
-    }
     .dashboard__navigation {
         display: flex;
         flex-direction: column;
@@ -499,7 +496,9 @@
         border-collapse: collapse;
     }
     
-    
+    .pagination-button--active {
+        background-color: #5932EA;
+    }
     .customer-list__head-cell {
         padding: 10px;
         text-align: left;
